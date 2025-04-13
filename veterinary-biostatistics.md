@@ -1,6 +1,6 @@
 # Veterinary biostatistics
 
-**Veterinary biostatistics** is the application of statistical methods to research and data analysis in veterinary medicine and animal health sciences. As a subfield of [biostatistics](002.biostatistics.md), it supports the design of studies, evaluation of treatments, and interpretation of data in settings involving animals—both domestic and wild—at both individual and population levels.
+**Veterinary biostatistics** is the application of statistical methods to research and data analysis in veterinary medicine. As a subfield of [biostatistics](biostatistics.md), it supports the design of studies, evaluation of treatments, and interpretation of data in settings involving animals—both domestic and wild—at both individual and population levels.
 
 Veterinary biostatistics plays a central role in clinical research involving companion, production, and wild animals. It is used to assess the efficacy and safety of veterinary interventions, to develop diagnostic tools, and to analyze patterns of disease in animal populations. In veterinary epidemiology, it contributes to the surveillance of infectious diseases, the modeling of transmission dynamics, and the identification of risk factors affecting animal health, welfare, and productivity.
 
