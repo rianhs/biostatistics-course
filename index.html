@@ -7,12 +7,36 @@
     content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
 
   <!-- Replace with your own title and description. -->
-  <title>Awesome Docsify Site</title>
-  <meta name="description" content="An awesome docsify site for publishing some content on the web.">
+  <title>Veterinary Biostatistics Course</title>
+  <meta name="description" content="Supporting materials for veterinary biostatistics course.">
 
   <!-- Default Theme (see https://docsify.js.org/#/themes) -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
+  <style>
+    /* 🔵 Link Styling */
+    a {
+      color: #0066cc !important;
+      font-weight: normal !important;
+      text-decoration: none !important;
+    }
+  
+    a:hover {
+      text-decoration: underline !important;
+    }
+  
+    /* 📐 Override Docsify default padding */
+    .markdown-section {
+      max-width: 100% !important;
+      padding: 0 10px !important; /* Narrow margins on mobile */
+    }
+  
+    @media (min-width: 768px) {
+      .markdown-section {
+        padding: 0 40px !important; /* Slightly wider margins on desktop */
+      }
+    }
+  </style>  
 
 </head>
 

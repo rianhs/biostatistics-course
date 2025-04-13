@@ -2,4 +2,5 @@
 - [Statistics](001.statistics.md)
 - [Biostatistics](002.biostatistics.md)
 - [Veterinary biostatistics](003.veterinary-biostatistics.md)
+- [Statistical thinking](004.statistical-thinking.md)
 - [Statistical software](005.statistical-software.md)
