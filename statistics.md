@@ -12,7 +12,7 @@ The 19th century marked the institutionalization of statistical thinking. Franci
 
 ## Main branches
 
-Statistics is commonly divided into two main branches: descriptive statistics and inferential statistics. Descriptive statistics focuses on summarizing and organizing data. It involves calculating measures of central tendency, such as the mean, median, and mode, as well as measures of variability, such as the range, variance, and standard deviation. These tools help describe the overall structure and spread of a dataset and are often complemented by visualizations such as histograms, box plots, and scatter diagrams.
+Statistics is commonly divided into two main branches: [descriptive statistics](descriptive-statistics.md) and [inferential statistics](inferential-statistics.md). Descriptive statistics focuses on summarizing and organizing data. It involves calculating measures of central tendency, such as the mean, median, and mode, as well as measures of variability, such as the range, variance, and standard deviation. These tools help describe the overall structure and spread of a dataset and are often complemented by visualizations such as histograms, box plots, and scatter diagrams.
 
 Inferential statistics, by contrast, is concerned with drawing conclusions from data samples about broader populations. This branch relies on probability theory to assess the reliability of estimates and to test hypotheses. Key techniques include confidence interval estimation, hypothesis testing (such as t-tests and chi-square tests), and regression analysis. These methods enable researchers to generalize findings, measure uncertainty, and assess the statistical significance of observed patterns.
 
