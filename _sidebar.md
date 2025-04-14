@@ -13,3 +13,5 @@
 - [Statistic](statistic.md)
 - [Descriptive statistics](descriptive-statistics.md)
 - [Inferential statistics](inferential-statistics.md)
+- [Data collection](data-collection.md)
+- [Data organization](data-organization.md)
