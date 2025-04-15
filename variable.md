@@ -1,6 +1,6 @@
 # Variable
 
-A variable is a characteristic that can take on different values across individuals, objects, or conditions. In statistical and scientific contexts, variables are used to represent what is being measured, observed, or compared in a study.
+A **variable** is a characteristic that can take on different values across individuals, objects, or conditions. In statistical and scientific contexts, variables are used to represent what is being measured, observed, or compared in a study.
 
 While a variable defines what is being recorded, data are the actual recorded values for that variable. The example can be seen in the table below.
 

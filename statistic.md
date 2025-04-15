@@ -1,6 +1,6 @@
 # Statistic
 
-In [statistics](statistics.md), a **statistic** is a numerical value calculated from data collected from a [sample](sample.md). It summarizes or describes a characteristic of that sample—such as the average body temperature of 50 cats examined at a clinic, the proportion of vaccinated animals in a selected group of farms, or the median age of dogs in a shelter. Unlike [parameters](parameter.md), statistics are computed directly from observed data and vary from one sample to another. They are used both for descriptive purposes and as estimates of corresponding [population](population.md) parameters, making them fundamental tools in both descriptive and inferential statistics.
+In [statistics](statistics.md), a **statistic** is a numerical value calculated from data collected from a [sample](sample.md). It summarizes or describes a characteristic of that sample—such as the average body temperature of 50 cats examined at a clinic, the proportion of vaccinated animals in a selected group of farms, or the median age of dogs in a shelter. Unlike [parameters](parameter.md), statistics are computed directly from observed data and vary from one sample to another. They are used both for descriptive purposes and as estimates of corresponding [population](population.md) parameters, making them fundamental tools in both [descriptive](descriptive-statistics.md) and [inferential statistics](inferential-statistics.md).
 
 ## Relationship with parameter
 

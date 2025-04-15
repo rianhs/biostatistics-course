@@ -1,6 +1,6 @@
 # Statistical thinking
 
-**Statistical thinking** is a way of reasoning that involves using data and statistical methods to make informed decisions, while accounting for variability, uncertainty, and the context of the problem. It is more than performing calculations or interpreting graphs. Statistical thinking is a disciplined mindset for evaluating evidence, recognizing patterns, and drawing conclusions responsibly. In veterinary medicine, statistical thinking is essential for understanding research, interpreting diagnostic results, and practicing evidence-based medicine.
+**Statistical thinking** is a way of reasoning that involves using [data](data.md) and statistical methods to make informed decisions, while accounting for variability, uncertainty, and the context of the problem. It is more than performing calculations or interpreting graphs. Statistical thinking is a disciplined mindset for evaluating evidence, recognizing patterns, and drawing conclusions responsibly. In veterinary medicine, statistical thinking is essential for understanding research, interpreting diagnostic results, and practicing evidence-based medicine.
 
 ## Mindset
 

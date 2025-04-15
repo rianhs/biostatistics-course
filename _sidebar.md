@@ -15,3 +15,8 @@
 - [Inferential statistics](inferential-statistics.md)
 - [Data collection](data-collection.md)
 - [Data organization](data-organization.md)
+- [Data analysis](data-analysis.md)
+- [Data interpretation](data-interpretation.md)
+- [Data presentation](data-presentation.md)
+- [Measures of central tendency](measures-of-central-tendency.md)
+- [Measures of variability](measures-of-variability.md)

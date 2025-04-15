@@ -1,6 +1,6 @@
 # Parameter
 
-In [statistics](statistics.md), a **parameter** is a numerical value that describes a characteristic of a [population](population.md). It reflects the true value for the entire group under study, such as the average weight of all dairy cows in a region, the proportion of infected animals in a herd, or the standard deviation of blood glucose levels in a population of dogs. Because parameters refer to entire populations, they are usually unknown and cannot be measured directly unless a complete census is performed. Instead, parameters are estimated using data from a [sample](sample.md) and serve as the foundation for inferential statistics. 
+In [statistics](statistics.md), a **parameter** is a numerical value that describes a characteristic of a [population](population.md). It reflects the true value for the entire group under study, such as the average weight of all dairy cows in a region, the proportion of infected animals in a herd, or the standard deviation of blood glucose levels in a population of dogs. Because parameters refer to entire populations, they are usually unknown and cannot be measured directly unless a complete census is performed. Instead, parameters are estimated using data from a [sample](sample.md) and serve as the foundation for [inferential statistics](inferential-statistics.md). 
 
 ## Relationship with statistic
 

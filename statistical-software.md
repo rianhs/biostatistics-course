@@ -39,3 +39,12 @@ The table below summarizes commonly used software by purpose, licensing, and int
 | Python          | General-purpose programming | Open-source | Script-based                |
 
 The selection of statistical software depends on the purpose of the analysis, the size and complexity of the dataset, available resources, and the user’s level of expertise. Spreadsheet tools are appropriate for simple calculations and visualizations. SPSS or SAS may suit users who prefer guided workflows for common statistical procedures. For advanced, customizable, or large-scale analyses, R and Python provide powerful capabilities at low cost. In educational settings, exposure to different platforms helps students build adaptable skills for research and professional practice.
+
+## External links
+- [Microsoft Excel](https://www.microsoft.com/id-id/microsoft-365/excel)
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+- [SPSS](https://www.ibm.com/id-id/products/spss-statistics)
+- [Stata](https://www.stata.com/)
+- [SAS](https://www.sas.com/en_us/home.html)
+- [R and RStudio](https://posit.co/download/rstudio-desktop/)
+- [Phyton](https://www.python.org/)

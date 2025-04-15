@@ -1,6 +1,6 @@
 # Data
 
-**Data** are values that represent specific concepts or phenomena and can be collected, organized, analyzed, interpreted, and presented to derive meaningful information. These values serve as simplified representations of reality, allowing researchers and practitioners to observe patterns, measure differences, and make informed decisions. In the context of statistical reasoning, data are the raw material from which evidence is drawn. Although data alone do not carry inherent meaning, they acquire significance when placed within a context and examined through appropriate methods.
+**Data** are values that represent specific concepts or phenomena and can be [collected](data-collection.md), [organized](data-organization.md), [analyzed](data-analysis.md), [interpreted](data-interpretation.md), and [presented](data-presentation.md) to derive meaningful information. These values serve as simplified representations of reality, allowing researchers and practitioners to observe patterns, measure differences, and make informed decisions. In the context of statistical reasoning, data are the raw material from which evidence is drawn. Although data alone do not carry inherent meaning, they acquire significance when placed within a context and examined through appropriate methods.
 
 ## Types and structures
 
@@ -33,7 +33,7 @@ The DIKW (data, information, knowledge, and wisdom) pyramid is a conceptual fram
 <div style="text-align: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/DIKW_Pyramid.svg" 
        alt="DIKW Pyramid"
-       style="width:25%; display: block; margin: auto;">
+       style="width:35%; display: block; margin: auto;">
   <p>
     <em>Figure: The DIKW Pyramid (source: 
       <a href="https://commons.wikimedia.org/wiki/File:DIKW_Pyramid.svg" target="_blank">Wikimedia Commons</a>)

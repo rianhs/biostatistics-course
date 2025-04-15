@@ -3,7 +3,7 @@
 **Descriptive statistics** is a branch of [statistics](statistics.md) that focuses on summarizing and describing the main characteristics of a data set. It provides a clear overview of the data using numerical summaries, tables, and visualizations, helping researchers identify patterns and trends without making generalizations beyond the observed sample. Descriptive methods are essential for detecting central tendencies, measuring variation, and communicating results clearly and accurately. For example, in a commercial chicken farm, descriptive statistics might be used to report the average weight of broiler chickens at market age, the number of eggs laid per day across henhouses, or how barn temperatures fluctuate during the week. These summaries offer important insights into the structure and quality of the data and often serve as a foundation for further analysis, such as [inferential statistics](inferential-statistics.md).
 
 ## Measures of central tendency
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: Measures of central tendency*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: [Measures of central tendency](measures-of-central-tendency.md)*
 
 Measures of central tendency describe the center of a data set—the value that best represents the available data. The most commonly used measures are the mean, median, and mode, each offering a different perspective.
 
@@ -16,7 +16,7 @@ The mode is the value that occurs most frequently. Here, the mode is 1.9 kg, sin
 In this example, the mean, median, and mode are all different, showing how each measure provides unique insight. Choosing the most appropriate one depends on the shape of the distribution and the presence of extreme values.
 
 ## Measures of variability
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: Measures of variability*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: [Measures of variability](measures-of-variability.md)*
 
 While measures of central tendency summarize the center of the data, measures of variability (or dispersion) describe how spread out the data are. They indicate whether the values are tightly clustered around the center or widely dispersed.
 
