@@ -24,17 +24,35 @@
     a:hover {
       text-decoration: underline !important;
     }
+
+      /* Italic text color */
+    em {
+      color: #34495E !important;
+    }
   
-    /* 📐 Docsify Content Styling */
+    /* Docsify Content Styling */
     .markdown-section {
       max-width: 100% !important;
-      padding: 0 45px 80px 25px !important; /* Top, Right, Bottom, Left */
+      padding: 0 55px 80px 25px !important; /* Top, Right, Bottom, Left */
     }
   
     @media (min-width: 768px) {
       .markdown-section {
-        padding: 0 60px 140px 60px !important; /* More space on larger screens */
+        padding: 0 70px 140px 60px !important; /* More space on larger screens */
       }
+    }
+
+    /* Move hamburger menu to top-left */
+   .sidebar-toggle {
+      bottom: auto !important;
+      top: 10px !important;
+      left: 10px !important;
+      z-index: 1001 !important;
+    }
+
+    /* Push search bar down a bit on mobile to make room */
+    .search {
+       margin-top: 50px !important;     /* Adds space so search isn't hidden */
     }
   </style> 
 
