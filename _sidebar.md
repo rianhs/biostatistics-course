@@ -20,3 +20,4 @@
 - [Data presentation](data-presentation.md)
 - [Measures of central tendency](measures-of-central-tendency.md)
 - [Measures of variability](measures-of-variability.md)
+- [Data visualization](data-visualization.md)
