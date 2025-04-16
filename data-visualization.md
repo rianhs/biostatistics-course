@@ -20,15 +20,15 @@ Pie and doughnut charts are most effective when the number of categories is smal
 
 In the example below, the chart displays the proportion of male and female respondents in a veterinary survey. Females make up 55% of the participants, while males account for 45%. This visualization provides a quick, intuitive summary of group representation.
 
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 100px; flex-wrap: wrap;">
 
   <div style="text-align: center;">
-    <img src="img/pie-chart-example.png" width="300" alt="Pie chart: Gender of respondents">
+    <img src="img/pie-chart-example-2.png" width="300" alt="Pie chart: Gender of respondents.">
     <br><em>Figure 1. Pie chart: Proportion of respondents.</em>
   </div>
 
   <div style="text-align: center;">
-    <img src="img/doughnut-chart-example.png" width="300" alt="Doughnut chart: Gender of respondents">
+    <img src="img/doughnut-chart-example-2.png" width="300" alt="Doughnut chart: Gender of respondents.">
     <br><em>Figure 2. Doughnut chart: Proportion of respondents.</em>
   </div>
 </div>
@@ -88,28 +88,28 @@ For example, the bar charts presented in this section are based on a table showi
 The first type of bar chart is the regular bar chart. It shows each category as a separate bar with varying height. The example below displays the total number of new students admitted each year, without differentiating between admission pathways. It uses a single bar per year, allowing a straightforward view of how class size has grown over time—from just 35 students in 2019 to 134 in 2024. This format is especially suited for simple comparisons across categories.
 
   <div style="text-align: center;">
-    <img src="img/bar-chart-example.png" width="600" alt="Bar chart: Number of new students per admission year">
+    <img src="img/bar-chart-example.png" width="600" alt="Bar chart: Number of new students per admission year.">
     <br><em>Figure 3. Bar chart: Number of new students per admission year.</em>
   </div><br>
 
 The second chart is a stacked bar chart, where each bar represents a category and is subdivided into segments according to subcategories—in this case, the admission pathways. While it maintains the basic structure of a regular bar chart, the internal segments provide additional insight into the composition of each category. This format allows viewers to examine both the total class size and the relative contribution of each admission pathway. For example, it reveals that SNBP showed significant growth in 2021 and 2024, SNBT consistently accounted for the largest share, and the Mandiri pathway remained relatively stable across the years.
 
   <div style="text-align: center;">
-    <img src="img/stacked-bar-chart-example.png" width="600" alt="Stacked bar chart: Number of new students by admission pathway per admission year">
+    <img src="img/stacked-bar-chart-example.png" width="600" alt="Stacked bar chart: Number of new students by admission pathway per admission year.">
     <br><em>Figure 4. Stacked bar chart: Number of new students by admission pathway per admission year.</em>
   </div><br>
 
 The grouped bar chart—also known as a clustered or side-by-side bar chart—displays separate bars for each subcategory within each category. In this context, each year contains three adjacent bars representing the admission pathways. This arrangement is particularly useful for comparing the same subcategory across multiple categories or analyzing within-category differences more precisely than is possible with stacked bars. In the example below, this chart format helps highlight fluctuations in the number of students admitted through each pathway over time.
 
   <div style="text-align: center;">
-    <img src="img/grouped-bar-chart-example.png" width="600" alt="Grouped bar chart: Number of new students by admission pathway per admission year">
+    <img src="img/grouped-bar-chart-example.png" width="600" alt="Grouped bar chart: Number of new students by admission pathway per admission year.">
     <br><em>Figure 5. Grouped bar chart: Number of new students by admission pathway per admission year.</em>
   </div><br>
 
 The final variant is the 100% stacked bar chart. Unlike the previous formats, this version emphasizes the relative proportions of each subcategory rather than absolute numbers. Each bar has the same height, and the segments represent the percentage composition of admission pathways within each year. This format is particularly helpful when the focus is on composition rather than total size. From the chart, it is clear that the proportion of SNBT remained dominant across the six years, the share of SNBP increased in 2024, and the relative contribution of Mandiri declined slightly.
 
   <div style="text-align: center;">
-    <img src="img/100-stacked-bar-chart-example.png" width="600" alt="100% stacked bar chart: Proportion of new students by admission pathway per admission year">
+    <img src="img/100-stacked-bar-chart-example.png" width="600" alt="100% stacked bar chart: Proportion of new students by admission pathway per admission year.">
     <br><em>Figure 6. 100% stacked bar chart: Proportion of new students by admission pathway per admission year.</em>
   </div><br>
 
@@ -120,19 +120,42 @@ In some cases, a horizontal bar chart may be more effective than the traditional
 
 An example is shown below using data from the 2020 Indonesian population census, which lists the ten provinces with the highest population. Since the province names are relatively long and the number of categories reaches ten, the horizontal format ensures that each label remains clear and legible. Each bar represents the total population of a province, making it easy to compare across regions.
 
-<br><br><center>A CHART WILL BE INSERTED HERE</center><br><br>
+  <div style="text-align: center;">
+    <img src="img/horizontal-bar-chart-example.png" width="600" alt="Horizontal bar chart: 10 provinces with the highest population in Indonesia based on 2020 census.">
+    <br><em>Figure 7. Horizontal bar chart: 10 provinces with the highest population in Indonesia based on 2020 census.</em>
+  </div><br>
 
-# Line chart
+## Line chart
 
 A line chart is a graphical tool used to display data points connected by straight lines, often used to visualize changes or trends over time. Each point on the chart represents a value at a particular time, and the connecting lines make it easy to see increases, decreases, or fluctuations. Line charts are especially useful when the data follow a continuous, ordered sequence—such as days, months, or years—making them ideal for tracking patterns over time.
 
 In the context of veterinary education, line charts can be used to show trends such as enrollment over the years, disease incidence across seasons, or changes in production indicators. The examples in this section use the same dataset on the admission of new students to a Veterinary Medicine Study Program from 2019 to 2024.
 
   <div style="text-align: center;">
-    <img src="img/line-chart-example.png" width="600" alt="Line chart: Number of new students per admission year">
-    <br><em>Figure 7. Line chart: Number of new students per admission year.</em>
+    <img src="img/line-chart-example-2.png" width="600" alt="Line chart: Number of new students per admission year.">
+    <br><em>Figure 8. Line chart: Number of new students per admission year.</em>
   </div><br>
 
   The first chart above is a regular line chart that shows the total number of new students admitted each year. The line connects six data points, making it easy to observe trends over time. In this case, we can see a sharp increase from 2019 to 2021, followed by a slight plateau, and then another rise in 2024. This format clearly highlights the general trend and direction of change.
+
+  <div style="text-align: center;">
+    <img src="img/multiple-line-chart-example.png" width="600" alt="Multiple line chart: Number of new students by patway admission per admission year.">
+    <br><em>Figure 9. Multiple line chart: Number of new students by patway admission per admission year.</em>
+  </div><br>
+
+  The second chart above is a multiple line chart, which includes one line for each admission pathway—SNBP, SNBT, and Mandiri. This format allows viewers to compare the trends of each subgroup across the same time period. It becomes evident, for example, that the SNBT pathway consistently contributed the most students, while the SNBP pathway saw significant growth in recent years. The Mandiri pathway, on the other hand, remained relatively stable. Multiple line charts are particularly valuable when comparing how different groups change over time under similar conditions.
+
+## Box plot
+
+A boxplot, also known as a box-and-whisker plot, is a powerful graphical method used to display the distribution, central tendency, and variability of numerical data. It summarizes a dataset using five key statistics: the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. These elements are visualized through a central box—spanning from Q1 to Q3—representing the interquartile range (IQR), and two lines, or “whiskers,” that extend to the minimum and maximum values that fall within a defined range. The median is drawn as a horizontal line within the box, helping users quickly see where the middle of the dataset lies.
+
+  <div style="text-align: center;">
+    <img src="img/box-plot.png" width="400" alt="General structure of a boxplot.">
+    <br><em>Figure 10. General structure of a boxplot.</em>
+  </div><br>
+
+Boxplots are especially valuable in veterinary biostatistics and animal health research because they allow quick comparison of distributions between different variables or groups. They are well suited for identifying data symmetry, spotting skewed distributions, and detecting outliers. Outliers are typically plotted as individual dots when they fall outside the range defined by 1.5 times the IQR above Q3 or below Q1.
+
+To illustrate, consider data collected from 40 cattle owners in a rural area, where three continuous variables were measured: age of cattle owners (in years), years of experience rearing cattle, and number of cattle owned. Boxplots provide a clear visual summary of each variable. The figure below presents the boxplots for age and cattle-rearing experience. The distribution of ages shows that the median age is 40 years, with a relatively symmetrical spread between the lower and upper quartiles. In contrast, the boxplot for rearing experience shows that most cattle owners have fewer years of experience, with a narrower interquartile range and a distribution that is skewed toward lower values.
 
   <br><br><center>TO BE CONTINUED</center>

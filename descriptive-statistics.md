@@ -1,6 +1,6 @@
 # Descriptive statistics
 
-**Descriptive statistics** is a branch of [statistics](statistics.md) that focuses on summarizing and describing the main characteristics of a data set. It provides a clear overview of the data using numerical summaries, tables, and visualizations, helping researchers identify patterns and trends without making generalizations beyond the observed sample. Descriptive methods are essential for detecting central tendencies, measuring variation, and communicating results clearly and accurately. For example, in a commercial chicken farm, descriptive statistics might be used to report the average weight of broiler chickens at market age, the number of eggs laid per day across henhouses, or how barn temperatures fluctuate during the week. These summaries offer important insights into the structure and quality of the data and often serve as a foundation for further analysis, such as [inferential statistics](inferential-statistics.md).
+**Descriptive statistics** is a branch of [statistics](statistics.md) that focuses on summarizing and describing the main characteristics of a data set. It provides a clear overview of the data using numerical summaries, tables, and visualizations, helping researchers identify patterns and trends without making generalizations beyond the observed [sample](sample.md). Descriptive methods are essential for detecting central tendencies, measuring variation, and communicating results clearly and accurately. For example, in a commercial chicken farm, descriptive statistics might be used to report the average weight of broiler chickens at market age, the number of eggs laid per day across henhouses, or how barn temperatures fluctuate during the week. These summaries offer important insights into the structure and quality of the data and often serve as a foundation for further analysis, such as [inferential statistics](inferential-statistics.md).
 
 ## Measures of central tendency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: [Measures of central tendency](measures-of-central-tendency.md)*
@@ -29,7 +29,7 @@ Another useful measure is the interquartile range (IQR), which describes the spr
 Understanding these measures helps researchers evaluate how consistent or variable the data are. This, in turn, informs decisions about data quality and the suitability of different statistical techniques.
 
 ## Data visualization
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: Data visualization*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Main article: [Data visualization](data-visualization.md)*
 
 In addition to numerical summaries, descriptive statistics often use visual tools to present data in a clear and intuitive way. Graphs and charts help highlight trends, reveal patterns, and identify potential errors or outliers.
 
