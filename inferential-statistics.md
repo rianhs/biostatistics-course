@@ -32,8 +32,10 @@ The table below provides an overview of common statistical tests, organized by t
   <table>
     <thead>
       <tr>
-        <th rowspan="2">Scales of Measurement</th>
-        <th colspan="2">Purpose of Statistical Test</th>
+        <th rowspan="3">Scales of Measurement</th>
+        <th colspan="3">Purpose of Statistical Test</th>
+      </tr>
+        <th colspan="2">Test Differences</th>
         <th rowspan="2">Examine Relationships</th>
       </tr>
       <tr>
