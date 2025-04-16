@@ -28,46 +28,75 @@ Each statistical test relies on certain assumptions about the data. Parametric t
 
 The table below provides an overview of common statistical tests, organized by the [scales of measurement](scales-of-measurement.md) and the type of analysis being conducted.
 
-<table>
-  <thead>
-    <tr>
-      <th rowspan="2">Scales of Measurement</th>
-      <th colspan="2">Purpose of Statistical Test</th>
-      <th rowspan="2">Examine Relationships</th>
-    </tr>
-    <tr>
-      <th>Two Groups</th>
-      <th>More Than Two Groups</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Nominal</td>
-      <td>Chi-square tests<br>Fisher’s exact test</td>
-      <td>Chi-square tests</td>
-      <td>Chi-square tests<br>Cramér’s V<br>Phi coefficient</td>
-    </tr>
-    <tr>
-      <td>Ordinal</td>
-      <td>Mann–Whitney U test<br>Wilcoxon rank-sum test</td>
-      <td>Kruskal–Wallis test</td>
-      <td>Correlation (Spearman)</td>
-    </tr>
-    <tr>
-      <td>Interval</td>
-      <td>t-tests*<br>Mann–Whitney U test<br>Wilcoxon signed-rank test</td>
-      <td>ANOVA-based tests*<br>Kruskal–Wallis test</td>
-      <td>Correlation tests (Pearson*/Spearman)<br>Regression models*</td>
-    </tr>
-    <tr>
-      <td>Ratio</td>
-      <td>t-tests*<br>Mann–Whitney U test<br>Wilcoxon signed-rank test</td>
-      <td>ANOVA-based tests*<br>Kruskal–Wallis test</td>
-      <td>Correlation tests (Pearson*/Spearman)<br>Regression models*</td>
-    </tr>
-  </tbody>
-</table>
-<p>* = parametric tests</p>
+<div class="centered-table">
+  <table>
+    <thead>
+      <tr>
+        <th rowspan="2">Scales of Measurement</th>
+        <th colspan="2">Purpose of Statistical Test</th>
+        <th rowspan="2">Examine Relationships</th>
+      </tr>
+      <tr>
+        <th>Two Groups</th>
+        <th>More Than Two Groups</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Nominal</b></td>
+        <td>Chi-square tests<br><br>Fisher’s exact test</td>
+        <td>Chi-square tests</td>
+        <td>Chi-square tests<br><br>Cramér’s V<br><br>Phi coefficient</td>
+      </tr>
+      <tr>
+        <td><b>Ordinal</b></td>
+        <td>Mann–Whitney U test<br><br>Wilcoxon rank-sum test</td>
+        <td>Kruskal–Wallis test</td>
+        <td>Correlation (Spearman)</td>
+      </tr>
+      <tr>
+        <td><b>Interval</b></td>
+        <td>t-tests*<br><br>Mann–Whitney U test<br><br>Wilcoxon signed-rank test</td>
+        <td>ANOVA-based tests*<br><br>Kruskal–Wallis test</td>
+        <td>Correlation tests (Pearson*/Spearman)<br><br>Regression models*</td>
+      </tr>
+      <tr>
+        <td><b>Ratio</b></td>
+        <td>t-tests*<br><br>Mann–Whitney U test<br><br>Wilcoxon signed-rank test</td>
+        <td>ANOVA-based tests*<br><br>Kruskal–Wallis test</td>
+        <td>Correlation tests (Pearson*/Spearman)<br><br>Regression models*</td>
+      </tr>
+    </tbody>
+  </table>
+    <div class="table-note">
+    <em>* = parametric test</em>
+  </div>
+</div>
+
+<style>
+  .centered-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 0 4px 0;
+  }
+
+  .centered-table th,
+  .centered-table td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+  }
+
+  .centered-table th {
+    background-color: #f5f5f5;
+  }
+
+    .centered-table .table-note {
+    font-size: 0.9em;
+    color: #444;
+    margin-top: 0;
+    padding-top: 0;
+  }
+</style>
 
 Each statistical test has its own assumptions, advantages, and limitations. Choosing the right method depends on the research question, the type and scale of the variables, the shape of the data distribution, and whether the assumptions for parametric tests can be met.
 

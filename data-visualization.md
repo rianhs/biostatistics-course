@@ -1,6 +1,6 @@
 # Data visualization
 
-**Data visualization** is the use of graphical tools to represent [data](data.md) in a clear, structured, and meaningful way. It helps reveal patterns, trends, differences, and relationships that may not be immediately visible in tables or raw numbers. In [veterinary biostatistics](veterinary-biostatistics.md), visualizations support decision-making, improve communication, and enhance the interpretation of clinical, epidemiological, and production data. Choosing the appropriate type of graph depends on the nature of the data and the message the researcher intends to communicate.
+**Data visualization** is the use of graphical tools to [represent data](data-presentation.md) in a clear, structured, and meaningful way. It helps reveal patterns, trends, differences, and relationships that may not be immediately visible in tables or raw numbers. In [veterinary biostatistics](veterinary-biostatistics.md), visualizations support decision-making, improve communication, and enhance the interpretation of clinical, epidemiological, and production data. Choosing the appropriate type of graph depends on the nature of the data and the message the researcher intends to communicate.
 
 ## Purpose and importance
 
@@ -18,7 +18,7 @@ These charts are designed to show parts of a whole, making them useful for highl
 
 Pie and doughnut charts are most effective when the number of categories is small—ideally between 2 and 4. When more categories are added, it becomes increasingly difficult for the reader to accurately judge the size of each slice, particularly when the differences are subtle. In such cases, a bar chart is more appropriate for comparison. Another important consideration is that pie charts emphasize relative comparison rather than exact values. Therefore, they are best used when proportions—not raw counts—are the focus of communication.
 
-In the example below, the chart displays the proportion of male and female respondents in a veterinary survey. Females make up 55% of the participants, while males account for 45%. This visualization provides a quick, intuitive summary of group representation.
+In the example below, the chart displays the proportion of male and female respondents in a veterinary survey. Males make up 45% of the participants, while females account for 55%. This visualization provides a quick, intuitive summary of group representation.
 
 <div style="display: flex; justify-content: center; gap: 100px; flex-wrap: wrap;">
 
@@ -147,7 +147,7 @@ In the context of veterinary education, line charts can be used to show trends s
 
 ## Box plot
 
-A boxplot, also known as a box-and-whisker plot, is a powerful graphical method used to display the distribution, central tendency, and variability of numerical data. It summarizes a dataset using five key statistics: the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. These elements are visualized through a central box—spanning from Q1 to Q3—representing the interquartile range (IQR), and two lines, or “whiskers,” that extend to the minimum and maximum values that fall within a defined range. The median is drawn as a horizontal line within the box, helping users quickly see where the middle of the dataset lies.
+A boxplot, also known as a box-and-whisker plot, is a powerful graphical method used to display the distribution, [central tendency](measures-of-central-tendency.md), and [variability](measures-of-variability.md) of numerical data. It summarizes a dataset using five key statistics: the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. These elements are visualized through a central box—spanning from Q1 to Q3—representing the [interquartile range](measures-of-variability#the-interquartile-range.md) (IQR), and two lines, or “whiskers,” that extend to the minimum and maximum values that fall within a defined range. The median is drawn as a horizontal line within the box, helping users quickly see where the middle of the dataset lies.
 
   <div style="text-align: center;">
     <img src="img/box-plot.png" width="400" alt="General structure of a boxplot.">
